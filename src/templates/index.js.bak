@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://website.zala.site/data/upfile/upload/17/hoa-son-dien-trang-da-lat-huong-dan-chi-duong-den-hoa-son-dien-trang-4_1.jpg' title="Phượt Ký" tagline="Chuyến đi đời tôi.." />
+        <Header image='https://tech360.vn/wp-content/uploads/2018/07/kinh-nghiem-di-phuot-an-toan-4.jpg' title="Phượt Ký" tagline="Chuyến đi đời tôi.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
