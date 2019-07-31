@@ -21,7 +21,7 @@ import favicon16 from '../favicons/favicon-16x16.png'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Phượt Ký"
+      title="Lên Đường"
       meta={[
         { name: 'description', content: 'A tutorial site dedicated to using C++ in Unreal Engine 4.  This site is meant for game developers wanting to learn how to begin using c++ in UE4.' },
         { name: 'keywords', content: 'unreal, engine, ue4, c++, cpp, game, development, harrison, mcguire' },
@@ -42,7 +42,7 @@ const TemplateWrapper = ({ children }) => (
         { rel: 'icon', type: "image/png", sizes: "32x32", href: favicon32 },
         { rel: 'icon', type: "image/png", sizes: "96x96", href: favicon96 },
         { rel: 'icon', type: "image/png", sizes: "16x16", href: favicon16 },
-        { rel: 'canonical', href: 'https://studiotechweb.com/' }
+        { rel: 'canonical', href: 'https://ethoreka.com/' }
       ]}
     />
 
