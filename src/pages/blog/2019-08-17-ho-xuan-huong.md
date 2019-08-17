@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/bai-co-bo-ho-xuan-huon
 tags:
   - Love
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
+date: 2019-08-17T13:12:33.962Z
 description:
 
 ---
@@ -81,17 +81,17 @@ Hay còn có tên gọi khách là sân golf Dalat Palace rộng 65ha ngoài là
 
 Mới xuất hiện được 3 năm nhưng với thiết kế đẹp cùng hàng trăm cây bon sai đẹp và giá cả hợp lý nhà hàng ngày càng thu hút khách, nhà hàng nằm đối diện vườn hoa thành phố
 
-Ngoài ra còn có các điểm siêu hot khác như
+Ngoài ra còn có các điểm siêu hot khác như:
 
-Quảng Trường Lâm Viên
+Quảng Trường Lâm Viên;
 
-Công Viên Yersin
+Công Viên Yersin;
 
-Công Viên Bà Huyện Thanh Quan
+Công Viên Bà Huyện Thanh Quan;
 
-Xuân Hương Garden Cafe
+Xuân Hương Garden Cafe;
 
-Những điều bạn nên làm khi ghé Hồ Xuân Hương
+**Những điều bạn nên làm khi ghé Hồ Xuân Hương**
 
 Đi ngắm Hồ Xuân Hương về đêm: Nếu bạn đang có người yêu hãy rủ người ấy cùng đi dạo xung quanh hồ khi mệt hãy nghỉ chân bên gốc thông già, cùng tâm sự bao chuyện thế gian, cái không khí se lạnh của đà lạt sẽ thật lãng mạn đấy.
 
@@ -107,10 +107,10 @@ Những điều bạn nên làm khi ghé Hồ Xuân Hương
 
 Rất nhiều khách du lịch đà lạt có sở thích chọn khách sạn có view nhìn ra Hồ Xuân Hương sau đây chúng tôi sẽ liệt kê để bạn có thể lựa chọn.
 
-Khách sạn Ngọc Phát tiêu chuẩn 3 sao
+Khách sạn Ngọc Phát tiêu chuẩn 3 sao;
 
-Khách sạn Dalat Plaza tiêu chuẩn 3 sao
+Khách sạn Dalat Plaza tiêu chuẩn 3 sao;
 
-Khách sạn Thanh Thuỷ tiêu chuẩn 3 sao
+Khách sạn Thanh Thuỷ tiêu chuẩn 3 sao;
 
 Và rất nhiều khách sạn khác bạn có thể đọc thêm bài khách sạn ở đà lạt gần hồ xuân hương và khách sạn ở đà lạt gần chợ âm phủ để tìm cho mình một khách sạn tại đà lạt ưng ý.
