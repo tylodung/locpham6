@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 path: /co-gi-hap-dan
-title: Có hấp dẫn gì ở làng hoa Vạn Thành lâu đời nhất Đà Lạt
+title: Có hấp dẫn gì ở làng hoa Vạn Thành lâu đời nhất Đà Lạt?
 image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/lang-hoa-van-thanh-vuon-hoa-nu-hoang-xanh.jpg' 
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-22T13:12:33.962Z
+date: 2019-09-21T13:12:33.962Z
 description:
 
 ---
@@ -17,36 +17,32 @@ Cứ nhắc đến hoa thì chắc hẳn ai ai cùng đều nghĩ đến thành 
 
 Làng hoa vạn thành một cái tên nghe thật xa sâu thẳm bởi một từ ‘vạn’ thôi cũng đủ làm cho ta cảm giác nó bất tận vô ngàn đến nhường nào.
 
-Làng hoa Vạn Thành ở đâu?
+**Làng hoa Vạn Thành ở đâu?**
 
 Trả lời làng hoa nằm cách trung tâm thành phố khoảng 3km về hướng Tây được người dân phía bắc di cư đến trước tiên là họ trồng rau sạch sau khi thấy được tầm quan trọng phát triển ngày một tiên tiến của thành phố nên chuyển sang trồng đủ các loại hoa vào năm 1960.
 
 Đ/c: Phường 5 thành phố Đà Lạt tỉnh Lâm Đồng
 
-Giá vé tham quan làng hoa vạn thành:
+**Giá vé tham quan làng hoa vạn thành:**
 
 Miễn Phí tuy nhiên nếu đi theo các chương trình tour 1 ngày ở đà lạt bạn sẽ được vào tham quan các vườn hoa đẹp và có người dân làng hoa thuyết minh.
 
-Để du lịch Làng Hoa Vạn Thành bạn có thể đi theo bản đồ đường vào làng hoa vạn thành đà lạt dưới đây.
 
-
-Làng Hoa Vạn Thành Có gì
+**Làng Hoa Vạn Thành Có gì**
 
 Nhờ có khí hậu mát mẻ thuận lợi cho người dân gieo trồng đưa ra hàng loạt sản phẩm hoa quý hiếm ra thị trường. Trải qua bao nhiêu năm làng trồng hoa vạn thành nhờ một lượng kiến thức dồi dào tích cực nghiên cứa học hỏi, ứng dụng thực tế khoa học kỹ thuật tiên tiến vào để cấy ghép, lai tạo ra những giống mới màu sắc hoa đẹp hơn nhã nhặn hơn từ đậm ra nhạt, từ màu tím than ra những cánh hoa lai hai màu trắng tím.
 
 
 Nhờ vậy mới có thể phát triển hơn chăm bón kỹ lưỡng để những loại hoa kia nở lâu hơn tạo ra được những vụ trái mùa và từ đó quanh năm nơi đây luôn mở cửa chào đón du khách đến tham quan hàng ngày, hàng giờ.
 
-l
-
-Tham quan làng hoa vạn thành đà lạt
+**Tham quan làng hoa vạn thành đà lạt**
 
 Thật vậy! Cũng như các bạn đã biết Hoa chính là biểu tượng đặc trưng của Đà Lạt Lâm Đồng, đến đây dù đi bất cứ địa điểm nào thì hoa vẫn luôn luôn là đề tài chính cuốn hút những vị khách của chúng ta ghé đến tham quan ngắm nhìn những cành hoa ngập cả một góc trời của thành phố.
 
 
 Làng hoa Vạn Thành cũng vậy nơi đây cứ hàng tháng lại đưa đến cho người dân những cánh hoa xinh đẹp, không những thế còn chào đón các bạn gần xa ghé đến tham quan chụp ảnh kỷ niệm.
 
-Có diện tích rộng lớn khoảng hơn 200 héc ta trải dài các loại hoa đầy màu sắc như hoa hồng nhung, hoa ly, hoa hồng cánh sen, hoa cúc trắng, hoa cẩm chướng, hoa đồng tiền…làng hoa hồng vạn thành được bao bọc trong nhà lồng kính để tránh được ánh nắng gây gắt, những cơn gió mạnh những khi trời đổ cơn mưa nặng hạt thì chính lồng kính, nhà lưới này sẽ bảo vệ những bông hoa xinh đẹp đã và đang sắp nở rộ kia.
+Có diện tích rộng lớn khoảng hơn 200 héc ta trải dài các loại hoa đầy màu sắc như hoa hồng nhung, hoa ly, hoa hồng cánh sen, hoa cúc trắng, hoa cẩm chướng, hoa đồng tiền… làng hoa hồng vạn thành được bao bọc trong nhà lồng kính để tránh được ánh nắng gây gắt, những cơn gió mạnh những khi trời đổ cơn mưa nặng hạt thì chính lồng kính, nhà lưới này sẽ bảo vệ những bông hoa xinh đẹp đã và đang sắp nở rộ kia.
 
 
 
@@ -57,7 +53,7 @@ Mọi người còn được tận tay cầm lên những bông hoa hoặc thu g
 
 Có rất nhiều người muốn ngắm làng hoa vạn thành đà lạt về đêm tuy nhiên nếu là người đà lạt bạn sẽ biết có một địa điểm ngắm các nhà kính trồng hoa lung linh ánh đèn đó chính là đường xuống Trại Mát. À đến mùa hoa dã quỳ ở đà lạt nở rộ đừng quên ghé làng hoa này khu vực sân bay cam ly để ngắm một trong những nơi hoa nở đẹp nhất nhé.
 
-Làng Hoa Vạn Thành – Làng tỷ phú ở Đà Lạt
+**Làng Hoa Vạn Thành – Làng tỷ phú ở Đà Lạt**
 
 Làng hoa vạn thành là nơi trực tiếp cung ứng sản phẩm ra các tỉnh, miền đất khác nhờ đó mà tên tuổi của làng hoa ngày càng được nhiều biết và ghé đến tham quan ngắm nhìn.
 
