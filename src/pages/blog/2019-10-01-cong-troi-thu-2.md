@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /cong-troi-thu-2
 title: Cổng trời thứ 2 siêu đẹp tại quán cà phê Dalat View
-image: 'https://i.ytimg.com/vi/N_1P3uezCCE/maxresdefault.jpg' 
+image: 'https://du-lich-da-lat.com/wp-content/uploads/2018/09/da-lat-view.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-07-23T13:12:33.962Z
+date: 2019-10-01T13:12:33.962Z
 description:
  
 ---
