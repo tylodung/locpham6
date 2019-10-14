@@ -66,7 +66,6 @@ const Template = ({ data }) => {
                       <h3>Tác Giả</h3>
                       <AuthorCard image={ author.image } name={ author.name } />
 
-                      <CommentNotice video={ post.frontmatter.video }/>
 
                   </div>
 

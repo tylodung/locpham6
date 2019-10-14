@@ -6,7 +6,7 @@ const AuthorCard = ( { image, name, twitter, email, website, companysite, youtub
         <section className="author-card-content">
             <h4 className="author-card-name">{ name }</h4>
             
-            <p className="twitter-handle"><a href={youtube}>YouTube</a></p>
+            <p className="twitter-handle"><a href={youtube}></a></p>
             
             <p className="twitter-handle"><a href={ `mailto:${email}`}>{ email }</a></p>
         </section>
