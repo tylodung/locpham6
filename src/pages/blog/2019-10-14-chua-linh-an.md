@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 path: /chua-linh-an
-title: Kinh nghiệm đi Chùa Linh Ẩn Đà Lạt Lâm Đồng mới nhất
+title: Kinh nghiệm đi Chùa Linh Ẩn Đà Lạt Lâm Đồng mới nhất!
 image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/thac-voi-chua-linh-an.jpg' 
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
+date: 2019-10-14T13:12:33.962Z
 description:
 
 ---
