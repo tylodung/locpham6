@@ -6,8 +6,8 @@ image: 'https://focusasiatravel.vn/wp-content/uploads/2018/08/Ch%C3%B9a-Linh-%E1
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-10-15T13:12:33.962Z
+description: Đà Lạt, một trong những thành phố được thiên nhiên ưu ái ban tặng cho một nền khí hậu ôn hòa, quanh năm mát mẻ cùng những phong cảnh đẹp hữu tình và ẩn nấp trong đó là những ngôi chùa cổ kính, trang nghiêm.
  
 ---
 
@@ -30,7 +30,7 @@ Vào năm 1958 và năm 1972, chùa Linh Quang được các hòa thượng tr�
 
 Chùa được xây dựng theo lối kiến trúc cổ kết hợp giữa nghệ thuật Trung Hoa và Việt Nam , mái chồng cong tại bốn góc của nóc chùa được trạm trổ hình Long, Lân, Qui, Phụng cùng các con giao uốn lượn gắn ghép nhiều mảnh sành sứ đủ màu sắc.
 
-Tòa chính điện chùa Linh Quang  được xây theo hình chữ đinh dài 20 mét, rộng 15m gồm ba gian thông nhau được bố trí theo hình chữ công. Tiền điện  chùa quay hướng về phía Đông Bắc có 4 trụ đồng đắp rồng và sát hai trụ cột ngoài cùng là hai mãnh tường hẹp đắp nổi phong cảnh vườn Lộc Uyển, ba gian hai chái, mái chồng diềm, trên hai đầu  đỉnh nóc có gắn hai con Rồng theo thế hồi Long, cùng chầu vào một mặt hổ phù, phía trên mặt hổ phù là bánh xe chuyển Pháp Luân. Phía trên cửa chính vào nội điện có chữ “Chùa Linh Quang”.
+Tòa chính điện chùa Linh Quang  được xây theo hình chữ đinh dài 20 mét, rộng 15m gồm ba gian thông nhau được bố trí theo hình chữ công. Tiền điện  chùa quay hướng về phía Đông Bắc có 4 trụ đồng đắp rồng và sát hai trụ cột ngoài cùng là hai mãnh tường hẹp đắp nổi phong cảnh vườn Lộc Uyển, ba gian hai chái, mái chồng diềm, trên hai đầu đỉnh nóc có gắn hai con Rồng theo thế hồi Long, cùng chầu vào một mặt hổ phù, phía trên mặt hổ phù là bánh xe chuyển Pháp Luân. Phía trên cửa chính vào nội điện có chữ “Chùa Linh Quang”.
 
 
 Trên các đầu đao của mái trên là các cặp lưỡng Long, lưỡng Phụng chầu vào, ở hai đầu đao mái dưới là một cặp lưỡng Long vươn ra, khoảng giữa của hai mái là các bức trang trí hồi Long đối xứng qua bảng hiệu “Chùa Linh Quang”.

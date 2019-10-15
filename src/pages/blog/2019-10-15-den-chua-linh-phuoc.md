@@ -6,30 +6,30 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/tuong-phat-quan-the-am
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-10-15T13:12:33.962Z
+description: Rất nhiều du khách đã thắc mắc chùa ve chai ở đâu, chùa linh phước đà lạt ở đâu, chùa linh phước đà lạt 18 tầng địa ngục có thật không?
  
 ---
 
 Rất nhiều du khách đã thắc mắc chùa ve chai ở đâu, chùa linh phước đà lạt ở đâu, chùa linh phước đà lạt 18 tầng địa ngục có thật không?
 
-Chùa có địa chỉ tại 120 Tự Phước thuộc phường 11 thành phố Đà Lạt tỉnh Lâm Đồng.
+Chùa có địa chỉ tại **120 Tự Phước thuộc phường 11 thành phố Đà Lạt tỉnh Lâm Đồng.**
 
 
-Đường đi chùa Linh Phước
+**Đường đi chùa Linh Phước**
 
 Từ chợ Đà Lạt => qua cầu ông Đạo đi đường Trần Quốc Toản => Hồ Tùng Mậu => đường Trần Hưng Đạo => đường Hùng Vương => đi theo Quốc Lộ 20 xuống hết con dốc thuộc địa phận Trại Mát, đi khoảng 800 nữa nhìn sang bên tay phải sẽ thấy bức tranh hình tượng Phật Di Lạc đi vào khoảng 70m bạn sẽ thấy hiện ra một ngôi chùa kỳ lạ được tạo nên bởi hàng triệu mảnh ve chai.
 
-Quá trình xây dựng
+**Quá trình xây dựng**
 
 Năm 1990 dưới sự thiết kế và chỉ huy thi công của Thầy Trụ trì đời thứ năm là Thượng Tọa Thích Tâm Vị và sự đóng góp của Phật tử địa phương cùng Phật tử các nơi, Chùa đã được xây dựng lại toàn bộ như ngày nay.
 
 
-Các công trình trong chùa
+**Các công trình trong chùa**
 
 Đến với Chùa Linh Phước, ngoài việc dâng hương lễ Phật, du khách còn được thưởng ngoạn những kiến trúc được xây dựng công phu.
 
-KHU VỰC THAM QUAN
+**KHU VỰC THAM QUAN**
 
 Công trình đầu tiên gây được ấn tượng với khách hành hương là Long Hoa Viên, tạc hình con rồng uốn lượn dài tới 49 m quanh tượng đài Phật Di Lạc. Vây rồng được làm bằng 12.000 vỏ chai bia, bên cạnh thân rồng có hồ nước và hòn giả sơn, có tượng Phật Di Lạc ngự trên đỉnh.
 
@@ -43,7 +43,7 @@ Toàn bộ ngôi Tháp trang trí rồng phượng hoa văn điển tích t�
 
 Trước sân chùa còn có Bảo đài Quan Thế âm Bồ Tát tạo dáng rất hài hòa cân đối. sau đài Quan Âm là bãi đậu xe rộng rải cho khách hành hương về tham quan lễ bái.
 
-KHU VỰC NỘI VIỆN
+**KHU VỰC NỘI VIỆN**
 
 Ngôi nhà Tăng là nơi sinh hoạt của chư Tăng. Nhà tăng gồm 3 tầng, trên cùng là Tịnh Đường và ao sen bán nguyệt. Tầng giữa và tầng trệt là các phòng cho Tăng chúng. Chính giữa nhà là phòng khách lớn và thư viện của chùa. Trước sân nhà Tăng là tháp mộ của Hòa Thượng Thượng Quang hạ Lý và hoa viên tươi mát cùng bức phù điêu sơn thủy sống động.
 
@@ -58,32 +58,32 @@ Khám phá hết 18 tầng địa ngục trong chùa bạn sẽ thấy được 
 18 tầng địa ngục ở chùa Linh Phước Đà Lạt giúp bạn ngộ ra nên sống lương thiện để cứu mình và báo hiếu các bậc sinh thành.
 
 
-Tượng Sáp cùa Linh Phước
+**Tượng Sáp cùa Linh Phước**
 
 Được tạo hoàn toàn bằng sáp và nhìn y hệt như người thật đang ngồi thiền, tượng được tạo giống đại lão hoà thượng Minh Hạ Đức khi còn sống từ các nghệ nhân người Thái Lan với giá 300 triệu đồng.
 
-Tượng được hoàn thành và đặt tại chùa vào cuối tháng 11 năm 2011
+Tượng được hoàn thành và đặt tại chùa vào cuối tháng 11 năm 2011.
 
-Các kỷ lục của chùa Linh Phước Đà Lạt
+**Các kỷ lục của chùa Linh Phước Đà Lạt**
 
-Tháp chuông cao nhất Việt Nam
+Tháp chuông cao nhất Việt Nam;
 
-Tượng Phật trong nhà cao nhất Việt Nam
+Tượng Phật trong nhà cao nhất Việt Nam;
 
-Tượng bồ đề Đặt Ma bằng gỗ cao nhất Việt Nam
+Tượng bồ đề Đặt Ma bằng gỗ cao nhất Việt Nam;
 
-Tượng Bồ Tát Quan Thế Âm làm từ 600.000 bông hoa bất tử – Kỷ lục Châu Á
+Tượng Bồ Tát Quan Thế Âm làm từ 600.000 bông hoa bất tử – Kỷ lục Châu Á;
 
-Tượng Khổng Tước Vương bằng gỗ sao to nhất Việt Nam
+Tượng Khổng Tước Vương bằng gỗ sao to nhất Việt Nam;
 
-Ngôi chùa được tạo bằng nhiều mảnh sành nhất
+Ngôi chùa được tạo bằng nhiều mảnh sành nhất;
 
-Gốc cây gỗ trâm chứa bộ kinh Pháp lớn nhất Việt Nam
+Gốc cây gỗ trâm chứa bộ kinh Pháp lớn nhất Việt Nam;
 
-Bộ Phản bằng gỗ sao lớn nhất Việt Nam
+Bộ Phản bằng gỗ sao lớn nhất Việt Nam;
 
-Song tùng bách hạc tác phẩm nghệ thuật được xác nhận kỷ lục tại Việt Nam
+Song tùng bách hạc tác phẩm nghệ thuật được xác nhận kỷ lục tại Việt Nam;
 
-Bộ bàn ghế bằng gốc cây gỗ sao chạm hình 12 con giáp lớn nhất ở Việt Nam
+Bộ bàn ghế bằng gốc cây gỗ sao chạm hình 12 con giáp lớn nhất ở Việt Nam;
 
 Công trình 18 tầng địa ngục dài nhất Việt Nam.
