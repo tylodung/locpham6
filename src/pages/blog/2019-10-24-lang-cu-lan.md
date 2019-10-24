@@ -4,10 +4,10 @@ path: /lang-cu-lan
 title: Làng Cù Lần có gì vui và đường đi đến có dễ dàng không?
 image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/ma-rung-lu-quan-diem-phuot-da-lat.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-10-24T13:12:33.962Z
+description: Làng Cù Lần cái tên rất ngộ nghĩnh nhưng lại là địa điểm du lịch đà lạt thú vị thu hút hàng trăm ngàn lượt tham quan hàng năm.
  
 ---
 
@@ -38,12 +38,11 @@ Tất cả những gì đẹp, thuần khiết nhất của làng quê Việt Na
 
 **Đi xe Jeep khám phá Làng Cù Lần**
 
-Làng cù lần – Khu dã ngoại tuyệt vời dưới chân núi LangBiang
-Khu Du Lịch chủ yếu hướng du khách đến với các hoạt động ngoài trời, thư giãn vào hòa mình vào thiên nhiên núi rừng như: đi xe đạp địa hình, thả diều, cưỡi ngựa, săn gà rừng, bắt cá suối, các hoạt động rèn luyện kỹ năng sống,… là nơi tuyệt vời để tổ chức các hoạt động team building
+Khu Du Lịch chủ yếu hướng du khách đến với các hoạt động ngoài trời, thư giãn vào hòa mình vào thiên nhiên núi rừng như: đi xe đạp địa hình, thả diều, cưỡi ngựa, săn gà rừng, bắt cá suối, các hoạt động rèn luyện kỹ năng sống,… là nơi tuyệt vời để tổ chức các hoạt động team building.
 
 **Teambuilding trong làng cù lần**
 
-Đến với Làng Cù Lần bạn sẽ tìm lại được cảm  giác bình yên, thanh tịnh. Vẻ đẹp thiên nhiên hấp dẫn, một mô hình du lịch mang đậm tính văn hóa như Làng Cù Lần chắc hẳn sẽ mang lại nhiều ý nghĩa cho cuộc hành trình tại thành phố ngàn hoa Đà Lạt !!!
+Đến với Làng Cù Lần bạn sẽ tìm lại được cảm  giác bình yên, thanh tịnh. Vẻ đẹp thiên nhiên hấp dẫn, một mô hình du lịch mang đậm tính văn hóa như Làng Cù Lần chắc hẳn sẽ mang lại nhiều ý nghĩa cho cuộc hành trình tại thành phố ngàn hoa Đà Lạt!
 
 **Đến Làng cù Lần Đà Lạt chơi gì?**
 
@@ -51,17 +50,17 @@ Nằm giữa rừng thông thơ mộng với xung quanh là các con dốc, cây
 
 **Gía vé Làng Cù Lần**
 
-Vé đi xe Jeep: 100.000đ/ người bạn sẽ được băng rừng lội suối với quãng đường khá dài
+Vé đi xe Jeep: 100.000đ/ người bạn sẽ được băng rừng lội suối với quãng đường khá dài;
 
-Gía vé tổ chức Teambuilding: 120.000đ/ người chỉ nhận các đoàn có trên 30 khách. Bắt đầu từ lúc 8h sáng kết thúc lúc 17h chiều
+Gía vé tổ chức Teambuilding: 120.000đ/ người chỉ nhận các đoàn có trên 30 khách. Bắt đầu từ lúc 8h sáng kết thúc lúc 17h chiều;
 
-Gía vé đốt lửa trại: 120.000/ người giá củi đốt 700.000đ/ khối. thời gian tổ chức từ 17h tới 21h
+Gía vé đốt lửa trại: 120.000/ người giá củi đốt 700.000đ/ khối. thời gian tổ chức từ 17h tới 21h;
 
-Gía thuê hệ thống âm thanh: 3.000.000đ với âm thanh lớn 1.500.000đ với âm thanh nhỏ trong vòng 4 tiếng
+Gía thuê hệ thống âm thanh: 3.000.000đ với âm thanh lớn 1.500.000đ với âm thanh nhỏ trong vòng 4 tiếng;
 
 Gía khách sạn, và khu Resort: Trong Làng cù Lần có 2 căn Villa mỗi căn có 3 phòng với đầy đủ các tiện nghi sang trọng như phòng khách, phòng ngủ và phòng vệ sinh. Nếu đi gia đình bạn có thể chọn phòng 2 giường lơn, mỗi phòng 1m8.
 
-Gía 2.500.000đ 1 căn villa dành cho tối đa 8 người nếu thêm người phụ thu 200.000đ
+Gía 2.500.000đ 1 căn villa dành cho tối đa 8 người nếu thêm người phụ thu 200.000đ;
 
 Bạn cũng có thể lựa chọn ở Bungalow tiêu chuẩn 4 sao với 11 căn riêng biệt với sức chứa tối đa 4 người giá 1.500.000đ/ đêm.
 

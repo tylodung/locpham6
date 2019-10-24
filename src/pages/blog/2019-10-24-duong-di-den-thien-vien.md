@@ -4,10 +4,10 @@ path: /duong-di-den-thien-vien
 title: Đến Thiền Viện Trúc Lâm Đà Lạt và giá vé cáp treo mới nhất
 image: 'https://i.ytimg.com/vi/URWkzDG5Y-k/maxresdefault.jpg' 
 tags:
-  - Love
+  - Chua
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-10-24T13:12:33.962Z
+description: Thiền viện Trúc Lâm là một trong 3 thiền viện lớn nhất ở Việt Nam thuộc dòng Trúc Lâm Yên Tử với diện tích lên tới 30ha.
  
 ---
 
@@ -18,7 +18,7 @@ Thiền viện Trúc Lâm là một trong 3 thiền viện lớn nhất ở Vi�
 
 **Thiền viện trúc lâm Đà Lạt ở đâu?**
 
-Thiền viện thuộc đường Trần Thánh Tông nằm trên đồi Phụng Hoàng thuộc phường 3 thành phố Đà Lạt tỉnh Lâm Đồng
+Thiền viện thuộc đường Trần Thánh Tông nằm trên đồi Phụng Hoàng thuộc phường 3 thành phố Đà Lạt tỉnh Lâm Đồng.
 
 
 
@@ -42,15 +42,15 @@ Thiền viện Trúc Lâm được xây dựng vào ngày 08/04/1993 và đến 
 
 **Trong thiền viện có 4 khu vực:**
 
-Khu tịnh thất hòa thượng
+Khu tịnh thất hòa thượng;
 
-Hòa thượng viện trưởng
+Hòa thượng viện trưởng;
 
-Khu vực ngoại viện
+Khu vực ngoại viện;
 
-Khu nội viện tăng và nội viện ni
+Khu nội viện tăng và nội viện ni;
 
-Thiền Viện Trúc Lâm Đà Lạt
+Thiền Viện Trúc Lâm Đà Lạt;
 
 Các khu vực trong thiền viện.
 
@@ -73,21 +73,21 @@ Rời vườn hoa du khách đi xuống phía dưới chùa là Hồ Tĩnh Tâm,
 
 Có một điều đặc biệt nhất của Thiền Viện Trúc Lâm mà không điểm du lịch đà lạt nào có được đó chính là hệ thống cáp treo nối từ khu du lịch Cáp Treo đi thẳng tới Thiền Viện.
 
-Giá đi 1 chiều là 50.000đ đi 2 chiều là 70.000đ
+Giá đi 1 chiều là 50.000đ đi 2 chiều là 70.000đ.
 
 
 **Các lưu ý khi đến Thiền Viện Trúc Lâm Đà Lạt**
 
 Do thiền viện là chốn tôn nghiêm nên khi đến tham quan quý khách cần lưu ý những điều sau:
 
-Không được buôn bán trong khu vực Thiền Viện
+Không được buôn bán trong khu vực Thiền Viện;
 
-Mặc quần áo, váy ngắn không được vào
+Mặc quần áo, váy ngắn không được vào;
 
-Khi đến Chánh điện bạn phải bỏ giày dép ở ngoài và không được quay phim chụp hình
+Khi đến Chánh điện bạn phải bỏ giày dép ở ngoài và không được quay phim chụp hình;
 
-Các khu vực nội tăng và nội ni quý khách không được vào tham quan
+Các khu vực nội tăng và nội ni quý khách không được vào tham quan;
 
-Đến Thiền viện bằng xe máy bạn sẽ được giữ xe miễn phí
+Đến Thiền viện bằng xe máy bạn sẽ được giữ xe miễn phí;
 
 Nếu trong đoàn có người già yếu bạn nên cho họ đi xuống hồ Tuyền Lâm bằng ô tô không nên đi bộ bằng 140 bậc tam cấp.
