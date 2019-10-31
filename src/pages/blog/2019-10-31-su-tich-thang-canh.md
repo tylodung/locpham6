@@ -6,21 +6,21 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/giai-thich-ten-ho-than
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-10-31T13:12:33.962Z
+description: Hồ Than Thở là địa danh được đông đảo du khách tham quan nhiều nhất. Cùng khám phá để biết về sự tích hồ Than Thở Đà Lạt nhé.
  
 ---
 
 Hồ Than Thở là địa danh được đông đảo du khách tham quan nhiều nhất. Cùng khám phá để biết về sự tích hồ Than Thở Đà Lạt nhé.
 
-Địa chỉ:
+**Địa chỉ:**
 
 Rất nhiều du khách muốn biết hồ than thở ở đâu? và sau đây là câu trả lời: Hồ Than Thở nằm cách trung tâm Đà Lạt khoảng 6km về phía đông, theo trục đường Quang Trung – Hồ Xuân Hương.
 
-Giá vé:
+**Giá vé:**
 Để vào được trong khu du lịch bản phải mua vé với giá 20.000đ/ người
 
-Đường đi:
+**Đường đi:**
 Từ trung tâm Đà Lạt bạn đi qua cầu Ông Đạo => đi qua quảng trường Lâm Viên => đường Yersin => Đường Quang Trung => đường Phan Chu Trinh => Đường Hồ Xuân Hương => đi tới cuối đường nhìn bên tay phải là khu du lịch Hồ Than Thở.
 
 
@@ -44,14 +44,14 @@ Tại đây dường như chỉ còn nghe vi vút tiếng gió nhẹ, tiếng th
 Tham quan hồ Than Thở, khách du lịch Đà Lạt sẽ được dạo bước trên những bãi cỏ xanh, ngắm nhìn hàng thông in bóng xuống mặt hồ. Hay du khách cũng có thể tham gia dịch vụ cưỡi ngựa vòng quanh hồ để tìm cảm hứng của dân du mục.
 
 
-Sự tích Hồ Than Thở
+**Sự tích Hồ Than Thở**
 
 Sau một vòng dạo chơi tham quan, nếu mỏi chân du khách có thể ngồi nghỉ trong những nhà chồi nằm rải rác trên thảm cỏ xanh, và ngắm nhìn những giỏ phong lan của xứ đồi cao nguyên, cùng những câu chuyện lãng mạn mà đượm buồn của Hoàng Tùng và nàng Mai Hương, hay của cô giáo Thảo và anh bộ đội Tâm.
 
 Minh chứng cho cuộc tình oan trái của Thảo – Tâm, du khách có thể nhìn thấy ngôi mộ của người con gái ở Đồi thông hai mộ, từ ngoài vào phía tay trái khu du lịch.
 
 
-Truyền thuyết về đồi thông hai mộ ở Hồ Than Thở Đà Lạt
+**Truyền thuyết về đồi thông hai mộ ở Hồ Than Thở Đà Lạt**
 
 Xa xưa nữa, nơi đây gắn với câu chuyện tình của Hoàng Tùng và Mai Nương. Chuyện xảy ra vào thế kỷ 18, khi người anh hùng áo vải Nguyễn Huệ dấy binh đánh đuổi bọn xâm lược nhà Thanh, trai tráng khắp nơi hưởng ứng, trong đó có Hoàng Tùng. Trước khi chia tay, hai người rủ nhau ra bên bờ than thở hẹn thề.
 
@@ -59,7 +59,7 @@ Chàng hẹn đến mùa xuân – khi mùa mai anh đào nở sẽ đem tin th�
 
 Mấy năm sau triều đại Tây Sơn sụp đổ, Gia Long trả thù những người có công với triều Tây Sơn nên Hoàng Tùng đã tự vẫn bên hồ để được hạnh phúc với người yêu nơi chín suối. Từ đó hồ có tên là Thở cho đến ngày nay. Đó chính là câu trả lời cho câu hỏi: tại sao gọi là hồ than thở
 
-Thơ về Hồ Than Thở
+**Thơ về Hồ Than Thở**
 
 Một thi sĩ thương xót cho cảnh ngộ của đôi trai tài gái sắc trung trinh, nên diễn thành một bài trường ca nhẹ nhàng, ai oán:
 

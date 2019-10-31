@@ -6,12 +6,11 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/thac-pongour-lam-dong.
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-10-31T13:12:33.962Z
+description: Thác Pongour là ngọn thác được rất nhiều du khách ưa thích và lựa chọn để tổ chức tham quan.
 
 ---
 
-Thác Pongour là ngọn thác được rất nhiều du khách ưa thích và lựa chọn để tổ chức tham quan. Tham khảo bài viết dưới đây để biết tại sao Thác Pongour lại được goi là Nam Thiên Đệ Nhất Thác nhé.
 
 
 Đà Lạt – Lâm Đồng được thiên nhiên ưu đãi với nhiều đồi núi, sống suối, thác nước, rừng thông bạt ngàn. Ngoài những thác nước đã đi vào lòng du khách khi đến với Đà lạt như; thác Cam Ly, Datanla, Prenn thì không thể không nhắc đến “Nam Thiên Đệ Nhất Thác” của khu vực Nam Tây Nguyên. Đó chính là Pongour – một kiệt tác của tạo hóa.
