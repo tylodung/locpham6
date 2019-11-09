@@ -6,8 +6,9 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/vuon-hoa-o-thung-lung-
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-11-09T13:12:33.962Z
+description: Thung Lũng Vàng là một địa điểm hấp dẫn kết hợp xuất sắc giữa phong cảnh tự nhiên và sự sáng tạo không có giới hạn của con người.
+
 
 ---
 

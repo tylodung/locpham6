@@ -6,8 +6,9 @@ image: 'https://i.ytimg.com/vi/TQ3tr7hXV1s/maxresdefault.jpg'
 tags:
   - Love
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-11-09T13:12:33.962Z
+description: Thung lũng tình yêu là một trong những địa điểm du lịch Đà Lạt mà du khách yêu cầu được tham quan nhiều nhất.
+
  
 ---
 
@@ -29,7 +30,7 @@ Cái tên Thung Lũng Tình Yêu ra đời năm 1953 khi ông Nguyễn Vỹ làm
 Để có được hồ Đa Thiện đẹp như ngày nay là do vào năm 1972 có một con đập được xây dựng vắt qua thung lũng tạo nên một cảnh tượng vô cùng thơ mộng.
 
 
-Tên gọi thung lũng tình yêu bằng tiếng Pháp được in trên cỏ ở hình trên, còn thung lũng tình yêu tiếng anh là Valley of Love
+Tên gọi thung lũng tình yêu bằng tiếng Pháp được in trên cỏ ở hình trên, còn thung lũng tình yêu tiếng anh là Valley of Love.
 
 **Thung lũng tình yêu nằm ở đâu**
 
