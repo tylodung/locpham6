@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: "Phượt Thủ", // Site title.
     siteTitleAlt: "Chuyện mới kể..", // Alternative site title for SEO.
     siteLogo: "https://api.adorable.io/avatars/150/logo.png", // Logo used for SEO and manifest.
-    siteUrl: "https://ethoreka.com/", // Domain of your website without pathPrefix.
+    siteUrl: "https://famtech.info/", // Domain of your website without pathPrefix.
     pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
     siteDescription: "Nhóm của Bình.", // Website description used for RSS feeds/meta description tag.
     siteRss: "/rss.xml", // Path to the RSS file.
