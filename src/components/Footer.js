@@ -5,7 +5,7 @@ const Footer = () =>
     <footer className="site-footer outer">
         <div className="site-footer-content inner">
             <section className="copyright">
-                <Link to="/">laodao.info</Link> Copyright © ® ™ Đà Lạt Du Ký
+                <Link to="/">laodao.info</Link> Copyright © Đà Lạt Kỷ Niệm
             </section>
             <nav>
                 <a className="social-logo" href="https://youtu.be/N4WTi9EHLqA" >
