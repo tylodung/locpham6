@@ -1,17 +1,17 @@
 ---
 templateKey: blog-post
 path: /hoa-mai-anh-dao
-title: Những con đường ngắm Hoa Mai Anh Đào Đà Lạt 2019 đẹp nhất
+title: Những con đường ngắm Hoa Mai Anh Đào Đà Lạt đẹp nhất
 image: 'https://dulichtoday.vn/wp-content/uploads/2018/12/mai-anh-da-lat-thang-1-doc-da-quy-2.jpg' 
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-07-23T13:12:33.962Z
-description:
+date: 2020-02-27T13:12:33.962Z
+description: Nếu trong tháng 11 bạn đến thành phố mộng mơ đã phát sốt với đồi cỏ hồng và hoa dã quỳ thì trong tháng 1 một loài hoa cực phẩm nữa sẽ xuất hiện đó chính là hoa mai anh đào đà lạt.
  
 ---
 
-Nếu trong tháng 11 bạn đến thành phố mộng mơ đã phát sốt với đồi cỏ hồng và hoa dã quỳ thì trong tháng 1 một loài hoa cực phẩm nữa sẽ xuất hiện đó chính là hoa mai anh đào đà lạt.
+
 
 
 **Nguồn gốc**

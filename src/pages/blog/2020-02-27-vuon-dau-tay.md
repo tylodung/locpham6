@@ -4,17 +4,17 @@ path: /vuon-dau-tay
 title: Vườn Dâu Tây Đà Lạt cho tham quan miễn phí
 image: 'https://dulichtoday.vn/wp-content/uploads/2018/12/hinh-anh-vuon-dau-da-lat.jpg' 
 tags:
-  - Love
+  - Thien nhien
 uev: 4.18.6
-date: 2019-06-22T13:12:33.962Z
-description:
+date: 2020-02-27T13:12:33.962Z
+description: Sau rất nhiều chia sẻ của nhiều du khách về vườn dâu đà lạt lừa đảo, để bạn biết cách để tìm những vườn dâu đà lạt uy tín cho tham quan và hái tại vườn.
+
 
 ---
 
-Sau rất nhiều chia sẻ của nhiều du khách về vườn dâu đà lạt lừa đảo, để bạn biết cách để tìm những vườn dâu đà lạt uy tín cho tham quan và hái tại vườn.
 
 
-Tại sao lại có thông tin về vườn dâu đà lạt lừa đảo?
+**Tại sao lại có thông tin về vườn dâu đà lạt lừa đảo?**
 
 Sự việc bắt đầu khi một bài viết trên trang Vnexpress chia sẻ về việc một gia đình từ Nha Trang đi chơi Đà Lạt. Sơ lược như sau” Khi đang đi chơi ở các địa danh Thung Lũng Tình Yêu và Vườn Hoa Thành Phố thì gia đình chị này có được một người đến mời đến tham quan vườn dâu và mua với giá khuyến mãi với giá 20.000đ/kg.
 
@@ -23,12 +23,12 @@ Vốn thích ăn dâu tây lại còn được mua với giá quá rẻ cả gia
 Sau khi mua đặc sản xong thì cửa hàng có ghi lên tấm danh thiếp biển số xe của gia đình cùng 17 kg dâu tây giá 20.000đ. Rất háo hức và đi vòng vèo gần 1 tiếng gia đình cũng tìm được vườn dâu trên tấm danh thiếp. Khi vào vườn dâu hỏi thì chủ trại dâu này nói không biết và không có mối quan hệ với bất kỳ cửa hàng đặc sản nào cả.
 
 
-Dâu tây đà lạt có vào mùa nào?
+**Dâu tây đà lạt có vào mùa nào?**
 
 Rất nhiều khách du lịch thường hỏi dâu tây đà lạt có vào tháng mấy để đi lên? Nếu như những năm trước dâu chỉ được trồng từ tháng 1 tới tháng âm lịch. Thì hiện nay khi dâu tây được trồng trong nhà kính và hàng loạt công nghệ tiên tiến không phụ thuộc vào khí hậu. Dẫn tới dâu tây có quanh năm. Chỉ là có nhiều hay ít thôi nhé.
 
 
-Giá dâu tây Đà Lạt hiện nay
+**Giá dâu tây Đà Lạt hiện nay**
 
 Đây là câu hỏi của rất nhiều du khách muốn mua loại đặc sản đà lạt nổi tiếng này về làm quà. Câu hỏi dâu tây bao nhiêu tiền 1kg được rất nhiều khách đặt ra.
 
@@ -38,20 +38,20 @@ Các giống dâu đà lạt dễ trồng, ít sâu bệnh thường có giá r�
 
 Còn các loại dâu ngoại nhập thì giá cao hơn vì được trồng trong nhà kính và nhiều công nghệ tiên tiến nhất như công nghệ Biofress.
 
-Mua dâu tây đà lạt ở đâu?
+**Mua dâu tây đà lạt ở đâu?**
 
 Có rất nhiều cách để mua dâu tây đà lạt làm quà đó chính là mua ở chợ Đà Lạt, tới vườn hoặc các vựa dâu. Nếu du khách muốn mua dâu tây giao tận nơi chất lượng và uy tín nhất. Du khách có thể liên hệ ngay đến chủ vườn dâu sau và đặt mua qua số Hotline 097 313 5704.
 
-Mua ở chợ Đà Lạt
+**Mua ở chợ Đà Lạt**
 
 Đây là nơi nhanh nhất để bạn có thể mua dâu vì nơi đây bán rất nhiều loại dâu, thậm chí có cả dâu tây Trung Quốc. Nếu muốn tránh mua phải loại dâu này bạn nên đọc ngay bài kinh nghiệm phân biệt dâu tây Trung Quốc và dâu tây Đà Lạt ngay nhé.
 
-Mua tại vườn
+**Mua tại vườn**
 
 Đây là cách rất nhiều bạn trẻ lựa chọn, sau khi tìm được một vườn dâu uy tín cho hái tại vườn các bạn liền thuê xe tới tận nơi hái và mua về. Xem thêm giá các loại ô tô ở đây nếu bạn muốn thuê.
 
 
-Mua tại vựa dâu
+**Mua tại vựa dâu**
 
 Đây là nơi khá ok nếu bạn muốn mua dâu với số lượng lớn và mẫu mã đẹp, vì hầu hết dâu của Đà Lạt và các khu vực xung quanh được mang về đây đóng gói và gửi đi khắp Việt Nam.
 
@@ -60,7 +60,7 @@ Sau khi được phân loại thì dâu ở đây có rất nhiều giá đượ
 Một trong những con đường có nhiều vựa dâu đà lạt nhất là đường Nguyễn Công Trứ ở cuối đường nhé. Bạn có thể đi theo bản đồ sau để đến nơi chính xác nhất.
 
 
-Kinh nghiệm mua dâu tây Đà Lạt
+**Kinh nghiệm mua dâu tây Đà Lạt**
 
 Nhớ chọn đúng dâu đà lạt, nếu đã quyết định mua dâu làm quà nhớ đọc cách phân biệt với dâu Trung Quốc ở phía trên.
 
@@ -70,7 +70,7 @@ Dâu tây cũng như bất cứ mặt hàng nào khác, bạn cứ trả giá th
 
 Nếu nhà bạn ở xa nên chọn dâu hơi xanh 1 chút, đừng quá chín sẽ bị dập nát khi di chuyển.
 
-Vườn dâu đà lạt cho hái và tham quan
+**Vườn dâu đà lạt cho hái và tham quan**
 
 Sau đây sẽ là danh sách các vườn dâu đà lạt tham quan miễn phí cho bạn lựa chọn. Cũng có một số vườn cho tham quan có tính phí nhưng bù lại bạn sẽ được chiêm ngưỡng những quả dâu tuyệt đẹp.
 
@@ -124,7 +124,7 @@ Vậy là chỉ cần ghé đường Thánh Mẫu Đà Lạt bạn đã có th�
 Địa chỉ: 46 Đa Phú Phường 7 Đà Lạt
 
 
-Lưu ý:
+**Lưu ý:**
 
 Khi đến tham quan vườn dâu bạn cần lưu ý:
 
