@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://dalattrongtoi.com/media/upload/images/tin-tuc/Mua%20Da%20Lat%20(21).jpg' title="Đà Lạt Quê Tôi" tagline="Quê hương là chùm khế ngọt.." />
+        <Header image='https://c1.staticflickr.com/8/7446/9767516055_75571ba7d0_b.jpg' title="Đà Lạt Quê Tôi" tagline="Quê hương là chùm khế ngọt.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
