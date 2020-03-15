@@ -5,7 +5,7 @@ const Footer = () =>
     <footer className="site-footer outer">
         <div className="site-footer-content inner">
             <section className="copyright">
-                <Link to="/">Nhật Ký Của Tôi</Link> Copyright © 2020
+                <Link to="/">Đà Lạt Quê Tôi</Link> Copyright © 2020
             </section>
             <nav>
                 <a className="social-logo" href="https://youtu.be/N4WTi9EHLqA" >
