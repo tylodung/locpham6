@@ -2,7 +2,7 @@ const config = require("./data/SiteConfig");
 
 module.exports = {
   siteMetadata: {
-    title: 'Phượt Thủ',
+    title: 'Cuộc đời tôi',
     siteUrl: config.siteUrl,
     rssMetadata: {
       site_url: config.siteUrl ,

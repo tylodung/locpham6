@@ -23,7 +23,7 @@ const TemplateWrapper = ({ children }) => (
     <Helmet
       title="Cuộc Đời Tôi"
       meta={[
-        { name: 'description', content: 'A tutorial site dedicated to using C++ in Unreal Engine 4.  This site is meant for game developers wanting to learn how to begin using c++ in UE4.' },
+        { name: 'description', content: 'Như một giấc mơ đã lâu.' },
         { name: 'keywords', content: 'unreal, engine, ue4, c++, cpp, game, development, harrison, mcguire' },
         { charSet: 'utf-8'},
         { name: 'theme-color', content: '#663399'}
