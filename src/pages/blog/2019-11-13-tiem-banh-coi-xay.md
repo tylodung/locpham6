@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-path: /tiem-banh-coi-xay
-title: Tiệm bánh cối xay gió đà lạt điểm check in hot nhất Đà Lạt 2019
-image: 'https://i.ytimg.com/vi/XUPCLkWYFaU/maxresdefault.jpg' 
+path: /tiem-banh-coi-xay-gio
+title: Tiệm bánh cối xay gió đà lạt điểm check in hot nhất Đà Lạt 2020
+image: 'https://live.staticflickr.com/65535/50681760063_fd345e2e37_b.jpg' 
 tags:
   - Dia diem
 uev: 4.18.6
-date: 2019-11-13T13:12:33.962Z
+date: 2020-12-05T13:12:33.962Z
 description: Bức tường tiệm bánh cối xay gió đà lạt có gì hấp dẫn mà mỗi ngày lại có hàng trăm bạn trẻ đến chụp hình và check in.
  
 ---
